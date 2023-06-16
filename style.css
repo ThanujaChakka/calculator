@@ -1,0 +1,59 @@
+.cal{
+    margin-top: 2%;
+    margin-left: 33%;
+    position: absolute;
+    border: 10px solid rgb(150, 189, 12);
+    height: 75%;
+    width: 30%;
+}
+#n1{
+    margin: 10px;
+    height: 30px;
+    width: 77%;
+    border: 4px solid rgb(150, 189, 12);
+    color: black;
+    font-size: 17px;
+    position: relative;
+    margin-top: 8%;
+    margin-bottom: 4%;
+    margin-left:10%;
+}
+#add,#sub,#mul,#div,#isequ,#re{
+    justify-content: space-around;
+    margin: 10px;
+    height: 12%;
+    width: 30%;
+    margin-left: 12.5%;
+    font-size: 30px;
+    
+    border: 5px solid rgb(150, 189, 12);
+    color: rgb(109, 106, 106);
+    position: relative;
+}
+#result{
+    height: 10%;
+    width: 28%;
+   
+   border: 5px solid rgb(150, 189, 12);
+    height: 11%;
+    width: 40%;
+    margin-left: 30%;
+    margin-bottom: 5%;
+    font-size: 20px;
+}
+#wait{
+    height: 10%;
+    width: fit-content;
+
+    border: 5px solid rgb(150, 189, 12);
+    height: 6%;
+    width:fit-content;
+    margin-left: 34%;
+    margin-bottom: 5%;
+    font-size: 25px;
+}
+body{
+    background-color: blue;
+    color: white;
+}
+
